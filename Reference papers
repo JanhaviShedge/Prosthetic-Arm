@@ -1,0 +1,17 @@
+References:
+[1] A. Ramirez-Garcia, C. Toledo, L. Leija, and R. Munoz, “Status of elbow myoelectric prosthesis: CINVESTAV-IPN,” CIN-VESTAV-IPN, June 2009.View at: Google Scholar 
+[2].Amputee Coalition of America's National Limb Loss Information Center (NLLIC).
+[3]. Piper, H., Elektrophysiologie Menschlicher Muskeln, Springer Verlag, Berlin, 1912
+[4] S. Hasan, et. al., “Wearable Mind Thoughts Controlled Open Source 3D Printed Arm with Embedded Sensor Feedback System”, CHIRA 2018 - 2nd International Conference on Computer-Human Interaction Research and Applications, 2018
+
+[5] https://in.mathworks.com/matlabcentral/fileexchange/68245-digital-processing-of-electromyographic-signals-for-control
+
+[6]. Luca C.J.D. Surface Electromyography: Detection and Recording. [(accessed on 2 January 2019)];2002 Available online: https://www.delsys.com/Attachments_pdf/WP_SEMGintro.pdf.
+[7]. Go S.A., Coleman-Wood K., Kaufman K.R. Frequency analysis of lower extremity electromyography signals for the quantitative diagnosis of dystonia. J. Electromyogr. Kinesiol. 2014;24:31–36. doi: 10.1016/j.jelekin.2013.11.002. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+[8]. Amrutha N., Arul V.H. A Review on Noises in EMG Signal and its Removal. IJSRP. 2017;7:23–27. [Google Scholar]
+[9]. Luca C.J.D., Gilmore L.D., Kuznetsov M., Roy S.H. Filtering the surface EMG signal: Movement artifact and baseline noise contamination. J. Biomech. 2010;43:1573–1579. doi: 10.1016/j.jbiomech.2010.01.027. [PubMed] [CrossRef] [Google Scholar]
+[10]. Boxtel A. Optimal signal bandwidth for the recording of surface EMG activity of facial, jaw, oral, and neck muscles. Psychophysiology. 2001;38:22–34. doi: 10.1111/1469-8986.3810022. [PubMed] [CrossRef] [Google Scholar]
+[11]. Merletti R. Standards for Reporting EMG Data. International Society of Electrophysiology and Kinesilogy; Victoria, BC, Canada: 1999. [Google Scholar]
+[12]. Smith W.S. Scientist and Engineer’s Guide to Digital Signal Processing. California Technical Publishing; San Diego, CA, USA: 1997. Filter Comparison; pp. 343–350. [Google Scholar]
+[13]. Zumbahlen H. Basic Linear Design. Analog Devices; Norwood, MA, USA: 2007. Analog Filters; pp. 8.1–8.144. [Google Scholar]
+[14]. Meyer M. Signalverarbeitung. 7th ed. Springer; Berlin, Germany: 2014. Digitale Signale; pp. 150–224. [Google Scholar]
